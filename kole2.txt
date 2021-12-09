@@ -3,3 +3,5 @@ zmiana 001
 zmiana 002_1 - prostawersja
 zmiana 002_2 - prostawersja
 zmiana 002_2_1 - do konfliktu
+
+zmiana 003
