@@ -13,4 +13,8 @@ zmiana 002
 
 kolejna zmiana
 
+HEAD
 i jeszcze 1
+=======
+i jeszcze jeden
+origin/master
