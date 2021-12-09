@@ -5,5 +5,3 @@ zmiana 002_2 - prostawersja
 zmiana 002_2_1 - do konfliktu
 
 zmiana 003
-
-|<0|_3_||\|4 2|^^|14|\|4
