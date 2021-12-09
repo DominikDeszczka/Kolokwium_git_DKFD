@@ -4,6 +4,9 @@ zmiana 001
 zmiana 002_1 - naprawaBledu
 
 ABC
+
 =======
 CBA
 prostawersja
+
+zmiana 002
