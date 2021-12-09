@@ -1,1 +1,4 @@
 zmiana 001
+
+zmiana 002_1 - prostawersja
+zmiana 002_2 - prostawersja
