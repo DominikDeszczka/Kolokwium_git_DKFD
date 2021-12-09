@@ -12,3 +12,5 @@ prostawersja
 zmiana 002
 
 kolejna zmiana
+
+i jeszcze jeden
